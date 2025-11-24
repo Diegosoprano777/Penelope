@@ -1,0 +1,22 @@
+{
+  "name": "penelope",
+  "version": "1.0.0",
+  "description": "this my first document",
+  "main": "buenas.js",
+  "scripts": { 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diegosoprano777/Penelope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diegosoprano777/Penelope/issues"
+  },
+  "homepage": "https://github.com/Diegosoprano777/Penelope#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
